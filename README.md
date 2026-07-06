@@ -1,4 +1,4 @@
-# FedRGEA — Federated Robustness Framework with Genetic Evolutionary Aggregation
+# FedRGEA: Reliability-Guided Bio-Inspired Evolutionary Aggregation for Robust Federated Learning
 
 Federated learning framework for medical image classification.
 
